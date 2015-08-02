@@ -1,3 +1,3 @@
 FROM busybox
 
-RUN apk add --update nodejs
+RUN sleep 10
