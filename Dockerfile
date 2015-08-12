@@ -1,3 +1,3 @@
 FROM busybox
 
-RUN sleep 30
+RUN sleep 5
