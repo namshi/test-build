@@ -1,2 +1,2 @@
 test: 
-  registry: dockerhub
+  registry: docker.io/namshi
