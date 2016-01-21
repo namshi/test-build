@@ -1,2 +1,2 @@
 test: 
-  helo: world
+  registry: dockerhub
