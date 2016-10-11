@@ -3,3 +3,4 @@ test: # this is the name of your project
   notify:
     - slack
     - emailSes
+    - comment
